@@ -1,0 +1,33 @@
+{
+    "page": "Kontakt",
+    "sections": [
+      {
+        "type": "contact_info",
+        "content": {
+          "address": {
+            "label": "Adresa",
+            "value": "Lorem St 40, Lorem City, 78989"
+          },
+          "phone": {
+            "label": "Telefon",
+            "value": "(088) 09787756"
+          },
+          "email": {
+            "label": "Email",
+            "value": "kontakt@lorem.hr"
+          },
+          "working_hours": {
+            "label": "Radno vrijeme",
+            "value": "Pon - Pet: 09:00 - 17:00"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "content": {
+          "embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2890.6118659157554!2d16.375826315730223!3d48.20817417922868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d075b5d731ecd%3A0x58fefc69b57e5944!2sVienna%2C%20Austria!5e0!3m2!1sen!2sus!4v1623859334546!5m2!1sen!2sus"
+        }
+      }
+    ]
+  }
+  

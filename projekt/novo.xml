@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nove>
+  <knjiga id="1">
+    <ime>The Death Watcher: Signed Edition (Hardback)</ime>
+    <autor>Chris Carter</autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>20 eura</cijena>
+    <opis>When a routine autopsy on what looked like a straightforward hit-and-run leads the LA Chief Medical Examiner, Dr Carolyn Hove, to discover some puzzling inconsistencies, she calls in Detective Robert Hunter of the LAPD Ultra Violent Crimes Unit. Not only did Dr Hove discover that the death wasn’t caused by a hit-and-run, but she also found indications that the victim had been severely tortured prior to death.</opis>
+  </knjiga>
+  <knjiga_2 id="2">
+    <ime>Taylor Swift - Little People, BIG DREAMS (Hardback)</ime>
+    <autor>Maria Isabel Sanchez Vegara</autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>9.99 eura</cijena>
+    <opis>This inspiring biography for kids explores Taylor Swift's dazzling musical journey so far. Learn how she went from little country dreamer to bigtime performer!</opis>
+  </knjiga_2>
+</nove>

@@ -1,0 +1,29 @@
+.banner {
+    background-image: url('./images/book-of-the-month-review-life-with-emily-39.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    color:  rgb(40, 39, 39);
+    text-align: center;
+}
+.banner h1 {
+    font-size: 3rem;
+    margin-top: 40px;
+}
+.banner p {
+    font-size: 1.5rem;
+}
+.footer {
+    background-color: #5F9EA0;
+    color: rgb(40, 39, 39);
+    padding: 20px 0;
+}
+.footer a {
+    color: #345657;
+    text-decoration: none;
+}
+.footer a:hover {
+    text-decoration: underline;
+}

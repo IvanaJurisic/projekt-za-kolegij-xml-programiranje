@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knjige>
+  <knjiga id="1">
+    <ime>Onyx Storm: Exclusive Edition - The Empyrean (Hardback)</ime>
+    <autor>Rebecca Yarros</autor>
+    <godina_izdanja>2025</godina_izdanja>
+    <cijena>25 eura</cijena>
+    <opis>Returning to the richly imagined world of Fourth Wing and Iron Flame, the third instalment of Rebecca Yarros' scintillating romantasy series finds Violet in deadlier peril than ever before.</opis>
+  </knjiga>
+  <knjiga id="2">
+    <ime>The Bee Sting (Paperback)</ime>
+    <autor>Paul Murray</autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>8.49 eura</cijena>
+    <opis>One of the greatest living comic novelists follows up Skippy Dies and The Mark and the Void with a beautifully crafted bittersweet delight about one family desperately attempting to get through the most trying of times.</opis>
+  </knjiga>
+  <knjiga id="3">
+    <ime>Murdle - Murdle Puzzle Series (Paperback)</ime>
+    <autor>G. T. Karber</autor>
+    <godina_izdanja>2023</godina_izdanja>
+    <cijena>14.99 eura</cijena>
+    <opis>Prepare to become utterly obsessed with these addictive logic puzzles with a murder mystery spin, as you join Deductive Logico for one hundred brain-bending whodunits.</opis>
+  </knjiga>
+    <knjiga id="4">
+    <ime>The Housekeepers (Paperback)</ime>
+    <autor>Alex Hay</autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>8.49 eura</cijena>
+    <opis>Upstairs, Madam is planning the party of the season.Downstairs. the servants are plotting the heist of the century.
+    When Mrs King, housekeeper to the most illustrious home in Mayfair, is suddenly dismissed after years of loyal service, she knows just who to recruit to help her take revenge.</opis>
+  </knjiga>
+  <knjiga id="5">
+    <ime>The Last Devil To Die (Paperback)</ime>
+    <autor>Richard Osman</autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>7.99 eura</cijena>
+    <opis>The geriatric sleuths of the Thursday Murder Club are faced with their most dangerous case yet when the disappearance of a highly dangerous package sends the body count spiralling in Osman's irresistible fourth crime caper.</opis>
+  </knjiga>
+    <knjiga id="6">
+    <ime>Ultra-Processed People: Why Do We All Eat Stuff That Isn’t Food … and Why Can’t We Stop? (Paperback)</ime>
+    <autor>Dr Chris van Tulleken </autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>9.49 eura</cijena>
+    <opis>Passionate and eye-opening, Van Tulleken's authoritative account of the damage that ultra-processed food is doing to our bodies, our health and the planet makes for essential reading.</opis>
+  </knjiga>
+  <knjiga id="7">
+    <ime>Butter (Paperback)</ime>
+    <autor>Asako Yuzuki</autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>14.99 eura</cijena>
+    <opis>Teeming with searing insights into sexism, obsession and pleasure, this glorious Japanese cult classic revolves around a famed female chef convicted as the serial killer of lonely businessmen and a story-hungry young journalist who wishes to learn the secrets of gourmet from her.</opis>
+  </knjiga>
+  <knjiga id="8">
+    <ime>Yellowface: Exclusive Edition (Paperback)</ime>
+    <autor>R.F. Kuang </autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>8.49 eura</cijena>
+    <opis>The bestselling author of Babel harnesses her satirical powers in this tantalising and deliciously humorous literary thriller that investigates ambition, greed and white privilege with deadly precision.</opis>
+  </knjiga>
+    <knjiga id="9">
+    <ime>Abroad in Japan (Paperback)</ime>
+    <autor>Chris Broad</autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>8.99 eura</cijena>
+    <opis>From missile incidents to love hotels, Broad's hilarious and insightful travelogue of Japan is based on his numerous misadventures in the decade since he arrived to teach English.</opis>
+  </knjiga>
+  <knjiga id="10">
+    <ime>A Court of Thorns and Roses - A Court of Thorns and Roses (Paperback)</ime>
+    <autor>Sarah J. Maas </autor>
+    <godina_izdanja>2020</godina_izdanja>
+    <cijena>6.99 eura</cijena>
+    <opis>Dripping with passion and danger, this tantalising opening to the bestselling fantasy romance series (inspired by Beauty and the Beast) from Sarah J Maas follows mortal Feyre who, after accidentally killing a faerie, finds herself hostage in the mystical lands of Prythian.</opis>
+  </knjiga>
+  <knjiga id="11">
+    <ime>None of This is True (Paperback)</ime>
+    <autor>Lisa Jewell </autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>8.49 eura</cijena>
+    <opis>A podcaster's life threatens to unravel when she allows her 'birthday twin' to inveigle their way into her life in this barnstorming psychological thriller from the author of The Family Upstairs.</opis>
+  </knjiga>
+    <knjiga id="12">
+    <ime>Fourth Wing - The Empyrean (Paperback)</ime>
+    <autor>Rebecca Yarros</autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>8.49 eura</cijena>
+    <opis>A thrilling fantasy epic that has taken BookTok by storm, Fourth Wing centres on the bookish Violet's attempts to become a dragon rider amidst the intrigue and deadly danger of the kingdom of Navarre.</opis>
+  </knjiga>
+  <knjiga id="13">
+    <ime>The Ferryman (Paperback)</ime>
+    <autor>Justin Cronin </autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>8.49 eura</cijena>
+    <opis>A mind-bending tale revolving around a small island community cut off from a rapidly deteriorating outside world, this powerful, thrilling novel from the author of The Passage blends myth, mystery and science fiction to mine the human condition and the nature of truth in impeccable prose.</opis>
+  </knjiga>
+  <knjiga id="14">
+    <ime>Tomorrow, and Tomorrow, and Tomorrow (Paperback)</ime>
+    <autor>Gabrielle Zevin</autor>
+    <godina_izdanja>2023</godina_izdanja>
+    <cijena>8.49 eura</cijena>
+    <opis>From the author of the beloved The Storied Life of A.J. Fikry comes a heartwarming tale of human connection, creativity and collaboration as two children who meet in a hospital go on to pursue their dreams and identities through the production of video games.</opis>
+  </knjiga>
+    <knjiga id="15">
+    <ime>Astrochimp (Hardback)</ime>
+    <autor>David Walliams</autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>7.49 eura</cijena>
+    <opis>David Walliams' side-splitting debut comic book alongside illustrator Adam Stower tells the zany story of Chump the Chimp, chosen by NASA for a very important space mission.</opis>
+  </knjiga>
+  <knjiga id="16">
+    <ime>Prophet Song (Paperback)</ime>
+    <autor>Paul Lynch</autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>8.49 eura</cijena>
+    <opis>Following a scientist whose husband is taken away by the newly formed Irish secret police, the award-winning author of Beyond the Sea and Grace spins a finely-wrought and terrifying vision of Ireland in the grip of a tyrannical government.</opis>
+  </knjiga>
+  <knjiga id="17">
+    <ime>The Secret (Paperback)</ime>
+    <autor>Lee Child</autor>
+    <godina_izdanja>2024</godina_izdanja>
+    <cijena>7.99 eura</cijena>
+    <opis>Reacher returns in another high-octane rollercoaster ride of a novel from Lee and Andrew Child, as the US government call the lone wolf in to investigate a spate of strange, seemingly unconnected deaths across the country.</opis>
+  </knjiga>
+</knjige>
